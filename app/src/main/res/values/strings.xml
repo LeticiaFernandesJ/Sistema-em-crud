@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Cadastro</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Cadastro</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+
+    <!-- Estados-->
+
+    <string-array name="estados">
+        <item>AC</item>
+        <item>AL</item>
+        <item>AM</item>
+        <item>AP</item>
+        <item>BA</item>
+        <item>CE</item>
+        <item>ES</item>
+        <item>GO</item>
+        <item>MA</item>
+        <item>MG</item>
+        <item>MT</item>
+        <item>MS</item>
+        <item>PA</item>
+        <item>PE</item>
+        <item>PR</item>
+        <item>SC</item>
+        <item>SP</item>
+        <item>RJ</item>
+        <item>RO</item>
+        <item>RS</item>
+
+    </string-array>
+</resources>
